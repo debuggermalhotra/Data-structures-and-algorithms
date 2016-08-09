@@ -23,6 +23,7 @@ int main()
     printf("\nPress 1 to perform insertion sort in ascending order");
     printf("\nPress 2 to perform insertion sort in descending order");
     printf("\nPress 3 to perform binary search\n");
+    printf("\nPress 3 to perform linear search\n");
     scanf("%d",&option);
     switch(option) {
         case 1:
