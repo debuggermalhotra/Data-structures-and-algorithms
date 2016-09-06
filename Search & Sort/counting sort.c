@@ -20,7 +20,7 @@ int main()
 }
  
 
-int Counting_sort(int A[], int k, int n)
+void Counting_sort(int A[], int k, int n)
 {
     int i, j;
     int B[15], C[100];
