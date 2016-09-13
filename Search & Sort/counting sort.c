@@ -4,7 +4,7 @@ int main()
 {
     int n,i,k = 0, A[15];
     
-    printf("Enter the number of array : ");
+    printf("Enter the size of array : ");
     scanf("%d",&n);
     printf("\n\nEnter the elements :\n");
     for ( i = 1; i <= n; i++)
@@ -20,7 +20,7 @@ int main()
 }
  
 
-int Counting_sort(int A[], int k, int n)
+void Counting_sort(int A[], int k, int n)
 {
     int i, j;
     int B[15], C[100];

@@ -51,12 +51,12 @@ void merge(int array[],int l,int m,int h)
   for(j=0; j<n2; j++)
     array2[j]=array[m+j+1];
 
-  array1[i]=9999;  // To mark the end of each temporary arrayay
+  array1[i]=9999;  // To mark the end of each temporary array
   array2[j]=9999;
 
   i=0;
   j=0;
-  for(k=l; k<=h; k++) { //process of combining two sorted arrayays
+  for(k=l; k<=h; k++) { //process of combining two sorted array
     if(array1[i]<=array2[j])
       array[k]=array1[i++];
     else
