@@ -5,10 +5,10 @@
 ##In general, greedy algorithms have five components:
 
 
-*1.A candidate set, from which a solution is created
-*2.A selection function, which chooses the best candidate to be added to the solution
-*3.A feasibility function, that is used to determine if a candidate can be used to contribute to a solution
-*4.An objective function, which assigns a value to a solution, or a partial solution, and
-*5.A solution function, which will indicate when we have discovered a complete solution
+* 1.A candidate set, from which a solution is created
+* 2.A selection function, which chooses the best candidate to be added to the solution
+* 3.A feasibility function, that is used to determine if a candidate can be used to contribute to a solution
+* 4.An objective function, which assigns a value to a solution, or a partial solution, and
+* 5.A solution function, which will indicate when we have discovered a complete solution
 
 
