@@ -20,3 +20,6 @@
 10. Alpha-beta Pruning
 11. Min-Max Search
 12. Mean End Analysis
+
+> Misc
+1. Monte Carlo tree search
