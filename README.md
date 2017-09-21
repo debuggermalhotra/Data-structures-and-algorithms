@@ -5,4 +5,4 @@
 <h4>Linked Lists: Containsbasic linked implementations, linked list reversal, doubly linked list, etc</h4>
 <h4>Stack: Contains Stack implementation using array and linked list, and my favourite: implementing two stacks using an array!!</h4>
 
-<h3>Please contribute to and star my work!!</h3>
+<h3>Please contribute to and star my work!</h3>
